@@ -1,6 +1,6 @@
-# Counterfactual Data Augmentation for Graph Anomaly Detection with Diffusion Probabilistic Models
+# CAGAD
 
-This is an anonymous repository hosting the code of CAGAD for double-blind review. 
+This is a repository hosting the code of CAGAD. 
 
 ## Data
 
